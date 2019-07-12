@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562949330 source:d:\programming\code-blocks\graph-plotter\main.cpp
+	<iostream>
+	<windows.h>
+
