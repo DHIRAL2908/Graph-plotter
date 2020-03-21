@@ -29,7 +29,7 @@ int draw(int i,int j)
 int main()
 {
     int i,j;
-    cout<<"Welcome to Plotter!"<<endl<<endl;
+    cout<<"Welcome to Plotter! By DHIRAL"<<endl<<endl;
     cout<<"You are given a 10*10 field. Please enter X-coordinate and Y-coordinate."<<endl;
     cout<<"Please enter the X-coordinate: ";
     cin>>i;
